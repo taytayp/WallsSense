@@ -1,2 +1,2 @@
 # WallsSense
-Recreating Flash Game Walls Logic in plain JS
+Recreating Flash Game Walls Logic in JS
